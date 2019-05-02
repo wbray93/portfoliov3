@@ -3,3 +3,12 @@
     font-size: 32px;
     color: black;
 }
+
+.my-cardimage-size {
+    width: 480px;
+    height: 640px;
+}
+
+.font-size-for-card-text {
+    font-size: 21px;
+}
